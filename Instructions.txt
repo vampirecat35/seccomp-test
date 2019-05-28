@@ -1,0 +1,7 @@
+#On the Linux Terminal execute the following commands
+
+autoconf
+autoheader
+./configure
+make
+./procFork
